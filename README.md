@@ -7,7 +7,7 @@ Sobre
 
 Projeto Integrador implementado na disciplina do curso Técnico em Desenvolvimento do SENAC no ano de 2024.
 
-Tabela de conteúdos
+📃 Tabela de conteúdos
 -------------------
 
 * [Sobre](#sobre)
@@ -20,7 +20,7 @@ Pré-requisitos
 ==============
 Comandos necessários para executar a aplicação
 
-Compilando a aplicação
+🚀 Compilando a aplicação
 ----------------------
 Compilando programa em Java
 
@@ -28,7 +28,7 @@ Compilando programa em Java
 $ javac Programa.java
 ```
 
-Executando a aplicação
+🚀 Executando a aplicação
 ----------------------
 Rodando o programa em Java
 
