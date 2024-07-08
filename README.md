@@ -2,16 +2,17 @@
 
 # Projeto de Mobilidade Urbana (SENAC)
 
-Sobre
-------
+sobre
+========
 
 Projeto Integrador implementado na disciplina do curso Técnico em Desenvolvimento do SENAC no ano de 2024.
 
 
 Tabela de conteúdos
-=========================
-	* [Sobre](#sobre)
-	* [Pré-requisitos] (#pre-requisitos)
-	* [Tecnologias utilizadas] (#tecnologias-utilizadas)
+--------------------
+
+* [Sobre](#sobre)
+* [Pré-requisitos] (#pre-requisitos)
+* [Tecnologias utilizadas] (#tecnologias-utilizadas)
 
 
