@@ -12,14 +12,17 @@ Tabela de conteúdos
 
 * [Sobre](#sobre)
 * [Pré-requisitos](#pré-requisitos)
-	*[Compilando a aplicação](#compilando-a-aplicação)
+  *[Compilando a aplicação](#compilando-a-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 
 Pré-requisitos
 =================
+Comandos necessários para executar a aplicação
+
 
 Compilando a aplicação
 ----------------------
+Compilando programa em Java
 
 ```bash
 $ javac Programa.java
