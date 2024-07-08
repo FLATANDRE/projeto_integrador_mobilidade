@@ -13,9 +13,8 @@ Tabela de conteúdos
 * [Sobre](#sobre)
 * [Pré-requisitos](#pré-requisitos)
   * [Compilando a aplicação](#compilando-a-aplicação)
+  * [Executando a aplicação](#executando-a-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-
-
 
 Pré-requisitos
 ==============
@@ -27,6 +26,14 @@ Compilando programa em Java
 
 ```bash
 $ javac Programa.java
+```
+
+Executando a aplicação
+----------------------
+Rodando o programa em Java
+
+```bash
+$ java Programa
 ```
 
 Tecnologias utilizadas
