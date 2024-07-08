@@ -5,7 +5,7 @@
 Sobre
 =====
 
-Projeto Integrador implementado na disciplina do curso Técnico em Desenvolvimento do SENAC no ano de 2024.
+Projeto Integrador implementado na disciplina do curso Técnico em Desenvolvimento do SENAC no ano de 2024 e 2025.
 
 📃 Tabela de conteúdos
 -------------------
