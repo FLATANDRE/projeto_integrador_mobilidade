@@ -36,6 +36,11 @@ Rodando o programa em Java
 $ java Programa
 ```
 
+
 Tecnologias utilizadas
 ======================
 
+As seguintes tecnologias foram utilizadas na construção do projeto:
+
+- [Java](https://www.oracle.com/br/java/)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
