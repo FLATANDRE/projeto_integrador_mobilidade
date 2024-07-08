@@ -44,3 +44,4 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 - [Java](https://www.oracle.com/br/java/)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [MySql](https://www.mysql.com/)
