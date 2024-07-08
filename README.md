@@ -7,7 +7,7 @@ Projeto Integrador implementado na disciplina do curso Técnico em Desenvolvimen
 Tabela de conteúdos
 =========================
 <!--ts-->
-	* [Tabela de conteúdos](#tabela-de-conteudo)
+	* [Tabela de conteúdos](#tabela-de-conteúdos)
 	* [Pré-requisitos] (#pre-requisitos)
 	* [Tecnologias utilizadas] (#tecnologias-utilizadas)
 <!--te-->
