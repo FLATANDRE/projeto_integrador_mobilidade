@@ -15,6 +15,7 @@ Projeto Integrador implementado na disciplina do curso Técnico em Desenvolvimen
   * [Compilando a aplicação](#compilando-a-aplicação)
   * [Executando a aplicação](#executando-a-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Autor](#autor)
 
 Pré-requisitos
 ==============
@@ -45,3 +46,10 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 - [Java](https://www.oracle.com/br/java/)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [MySql](https://www.mysql.com/)
+
+
+Autor
+=====
+Projeto feito por André Santana. 👨
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flatandre/)](https://www.linkedin.com/in/flatandre/) 
